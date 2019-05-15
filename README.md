@@ -1,19 +1,21 @@
-# [Awesome Performance]()
+# Resources for learning about Performance
+  
+<div align="center">
+  <img src="https://github.com/yurynino/learning-performance-basics/blob/master/images/performance_animation.gif" width="400px" />
 
-A curated list of awesome [Performance Topics](....) resources.
+  [![Performance](https://img.shields.io/badge/learning-performance-brightgreen)](https://developers.google.com/web/fundamentals/performance/why-performance-matters)
+</div>
 
-#### What is Performance?
-> Performance is ...
-
+  > “Quality is never an accident. It is always the result of intelligent effort” – John Ruskin
 
 ## Contents
 - [Backend Tools](#backend-tools)
 - [Frontend Tools](#frontend-tools)
-- [Common Issues](#common-issues)
+- [Articles](#articles)
 
 
 ## BackEnd Tools
-* [Pending](http://principlesofchaos.org/)
+* [Gatling](https://gatling.io/)
 
 
 ## FrontEnd Tools
@@ -23,8 +25,9 @@ A curated list of awesome [Performance Topics](....) resources.
 * [SiteSpeed](https://www.sitespeed.io/)
 
 
-## Common Issues
-* [Pending](http://principlesofchaos.org/)
+## Articles
+* [Fast load times](https://web.dev/fast)
+
 
 ## Contributing
-Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Contributions are always welcome!
+Please take a look at [contribution guidelines](CONTRIBUTING.md) first. Contributions are always welcome!
